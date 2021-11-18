@@ -54,6 +54,7 @@
  <td align="center"><a href="https://github.com/Danish-Belal"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish Belal"/><br /><sub><b>Danish Belal</b></sub></a></td>
  <td align="center"><a href="https://github.com/Wishy-S"><img src="https://avatars.githubusercontent.com/u/54708414?s=400&u=c5b2cacca8dfdc0aec99e81e5c5a0350ad289b17&v=4" width="102px;" alt="Shubham Vyas"/><br /><sub><b>Shubham Vyas</b></sub></a></td>
  <td align="center"><a href="https://github.com/thuongtruong1009"><img src="https://avatars.githubusercontent.com/thuongtruong1009" width="100px;" alt="Tran Nguyen Thuong Truong"/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a></td>
+ <td align="center"><a href="https://github.com/jose-jimmy"><img src="https://user-images.githubusercontent.com/88069006/142464350-ddd2a194-39e6-4ce5-a975-73e6923b2320.png" width="100px;" alt="Jose Jimmy"/><br /><sub><b>Jose Jimmy</b></sub></a></td>
     
     
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
